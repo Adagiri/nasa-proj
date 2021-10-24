@@ -1,0 +1,57 @@
+found 8 habitable planets
+listening upon port 8000...
+found 8 habitable planets
+found 8 habitable planets
+listening upon port 8000...
+listening upon port 8000...
+found 8 habitable planets
+listening upon port 8000...
+::1 - - [24/Oct/2021:03:49:57 +0000] "GET / HTTP/1.1" 200 2573 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:57 +0000] "GET /static/js/2.acf50103.chunk.js HTTP/1.1" 200 460491 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:57 +0000] "GET /static/js/main.848d2391.chunk.js HTTP/1.1" 200 14162 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:58 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:59 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:49:59 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:04 +0000] "POST /launches HTTP/1.1" 201 188 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:04 +0000] "GET /launches HTTP/1.1" 200 389 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:09 +0000] "POST /launches HTTP/1.1" 201 188 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:09 +0000] "GET /launches HTTP/1.1" 200 389 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:15 +0000] "POST /launches HTTP/1.1" 201 188 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:15 +0000] "GET /launches HTTP/1.1" 200 389 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:27 +0000] "POST /launches HTTP/1.1" 400 44 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:41 +0000] "GET /launch HTTP/1.1" 404 145 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:46 +0000] "GET /upcoming HTTP/1.1" 404 147 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /static/js/main.848d2391.chunk.js HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /static/js/2.acf50103.chunk.js HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /sound/click.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /sound/typing.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /sound/success.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /sound/warning.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /sound/abort.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+::1 - - [24/Oct/2021:03:50:52 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+found 8 habitable planets
+listening upon port 8000...
+found 8 habitable planets
+listening upon port 8000...
+found 8 habitable planets
+listening upon port 8000...
+found 8 habitable planets
+listening upon port 8000...
