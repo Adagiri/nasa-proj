@@ -1,0 +1,1 @@
+mongodb+srv://adagiri:<password>@krowdee-staging1.qt3cr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
